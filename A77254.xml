@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fifteen loyal queries for the Kings most excellent Majesty, and the three kngdoms [sic]. With a lash for the quondam jugler of state, W.L. Sp. Mr. R. Sec. and the rest of the grand and notorious traytors who thirsted after the blood of his sacred Majestie King Charles. By J. Bramstone Esq;</title>
+            <author>Bramstone, J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77254</idno>
+            <idno type="STC">Wing B4241</idno>
+            <idno type="STC">Thomason E1025_13</idno>
+            <idno type="STC">ESTC R208708</idno>
+            <idno type="EEBO-CITATION">99867635</idno>
+            <idno type="PROQUEST">99867635</idno>
+            <idno type="VID">168866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1025[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fifteen loyal queries for the Kings most excellent Majesty, and the three kngdoms [sic]. With a lash for the quondam jugler of state, W.L. Sp. Mr. R. Sec. and the rest of the grand and notorious traytors who thirsted after the blood of his sacred Majestie King Charles. By J. Bramstone Esq;</title>
+                  <author>Bramstone, J.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton, living near the three Crowns in Barbican,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.L. Sp. = William Lenthall Speaker of the House. -- Thomason catalog.</note>
+                  <note>Annotation on Thomason copy: "May 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenthall, William, 1591-1662 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168866:1" rendition="simple:additions"/>
+            <p>FIFTEEN LOYAL QUERIES FOR THE KINGS Moſt Excellent MAJESTY, AND THE THREE KNGDOMS. With a LASH for the Quondam Jugler of State, <hi>W. L.</hi> Sp. <hi>M<hi rend="sup">R.</hi>
+               </hi> R. Sec. And the reſt of the Grand and notorious Traytors who thirſted after the Blood of his Sacred <hi>Majestie</hi> KING <hi>CHARLES.</hi> By J. <hi>BRAMSTONE</hi> Eſq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Horton,</hi> living near the three Crowns in <hi>Barbican,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168866:2"/>
+            <pb n="1" facs="tcp:168866:2"/>
+            <head>A LASH for the Quondam Jugler, of State <hi>W. L.</hi> Sp.</head>
+            <p n="1">1. <hi>Quere.</hi>
+            </p>
+            <p>WHether if thoſe Traytors <hi>Cromwel, Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> and <hi>Prideaux,</hi> or any of that curſed crew late dead, were now living or wicked <hi>Lambert,</hi> or any of thoſe notorious Regi<g ref="char:EOLhyphen"/>cides now ſurviving all things ſeriouſly weighed in the ballance of true judgment, deſerve more ſevere puniſhment in reward of their matchleſſe rebellions, then the prime and moſt exalted head of that prodi<g ref="char:EOLhyphen"/>gious Monſter <hi>Hydra</hi> that underminer and ſubverter of our Lawes and Liberties, that <hi>Quondam Jugler W. L.</hi>
+            </p>
+            <p n="2">2. <hi>Quere.</hi> Whether be, being the principal Agent and con<g ref="char:EOLhyphen"/>triver of thoſe ſo deteſtable and damnable plots and conſpira<g ref="char:EOLhyphen"/>cies ſhould not in honour to Gods Law, and Juſtice to the Na<g ref="char:EOLhyphen"/>tion, be the firſt man that ſhould be made exemplary?</p>
+            <pb n="2" facs="tcp:168866:3"/>
+            <p n="3">3. <hi>Quere.</hi> Whether his crimes being ſo Captital as rendring him in the ſight of all honeſt men the chief of theſe Traytors, not onely exceeding thoſe with whom he conſpired as being Principal, but ſuperlatively tranſcending thoſe of the Gun<g ref="char:EOLhyphen"/>powder Treaſon: if he ſhould by running away eſcape the hand of Juſtice, it would not highly diſpleaſe God, and much diſatisfie the Kingdoms.</p>
+            <p n="4">4. <hi>Quere.</hi> If he ſhould thus work his freedom we might not believe that the hand of God would meet with him, as it did with Sir <hi>Thomas Martin</hi> of <hi>Cambridgeſhire</hi> who wiſht he might waſh his hands in the Kings blood, as this Traytor did in the blood of his Father.</p>
+            <p n="5">5. <hi>Quere.</hi> Whether it were not fit that he ſhould be pre<g ref="char:EOLhyphen"/>ſently ſecured thereby to prevent Gods wrath, and the Nati<g ref="char:EOLhyphen"/>ons calamity, and to have indictments againſt him ſpeedily preferred for his perjuries at ſeveral times, as alſo to have ſeve<g ref="char:EOLhyphen"/>ral actions brought againſt him of the caſe of Trover, and the like for his falſly impriſoning, oppoſing, defrauding the meaner ſort of people, that by means of the Legal proceeding by in<g ref="char:EOLhyphen"/>dictments he may looſe his ears which hath been forfeited many and being uſed upon thoſe actions may be forced Legally to render ſome ſatisfaction to the Common people whom he hath abuſed: before theſe treaſons and Capital crimes be laid to his charge whereby he will aſſuredly looſe his head.</p>
+            <p n="6">6. <hi>Quere.</hi> Whether it were fit upon his firſt ſurpriſal to have his effiges exactly cut out; which after his execution ſhould be hanged up at the Rolls gate in Chaucery Lane, for a perpetual monument with an <hi>Exit Hypocrita</hi> and a <hi>Dae vobis</hi> over his head who in his life time forgot that of <hi>Optatus Super Imperatorem non eſt niſi qui fecit Imperatorem hanc ab cauſam</hi> not to be judged condemned and executed by Traytors of which <hi>W. L.</hi> was chief.</p>
+            <p n="7">7. <hi>Quere.</hi> Whether it were fit in charity to his ſinful ſoul that he were put in mind of his wretched Hypocriſie in having many times honeſt godly Devines preach before him at the Roll, eſpecially at thoſe times when he was about the greateſt treaſons, thus acting not onely againſt the good Law of the Land but alſo Diametrically againſt the Law and Goſpel of God and
+<pb n="3" facs="tcp:168866:3"/> Chriſt which ſay, <hi>Touch not mine Anointed,</hi> and <hi>fear God and honour the King</hi> (not murther the King).</p>
+            <p n="8">8. <hi>Quere.</hi>
+            </p>
+            <p>Whether thoſe Divines ought not to endeavour to make him ſenſible of that terrible guilt which lyeth upon him, ſeeing that many times <hi>Conſuetudo peccandi tollet ſenſum peccati,</hi> and to manifeſt to him his <hi>Judas</hi> like condition, and freely to declare unto him, how much his ſin looks in all appearance like to the ſin againſt the Holy Ghoſt, unpardonable unleſs he can waſh away thoſe black and bloody ſpots, with cordial repenting tears, and that <hi>ſubito.</hi>
+            </p>
+            <p n="9">9. <hi>Quere.</hi> Whether they were not beſt particularly to mind him of his own perjuries, and breach of Oaths and Covenants. Firſt of his Oath of Allegiance to the King, his Crown and Dig<g ref="char:EOLhyphen"/>nity in the Univerſity. Secondly, in the Ins of Court, Thirdly, when he was choſen a Member of the long Parliament, and exal<g ref="char:EOLhyphen"/>ted to be Speaker. Fourthly, the ſolemn Oath and Covenant made generally in Parliament, and particularly by him, to pre<g ref="char:EOLhyphen"/>ſerve the Kings Royal Perſon, his Crown and Dignity, Poſterity, the Kingdoms and the Parliament with its Members; beſides other Oaths of Supremacy, fealty, Allegiance, Proteſtations, with manifold Declarations, Remonſtrances and other ſac ed and Civil Obligations to his ſacred Majeſty. All which he hath vio<g ref="char:EOLhyphen"/>lated b ſitting, and ſtill being the principal Actor in all the Treaſons, of expelling the honeſt Members, murthering the King, the Nobles and others, and acting many years together moſt treacherouſly, perfideouſly, athieſtically, in ſubverting and deſtroying the Laws of the Nations, the Priviledges of Par<g ref="char:EOLhyphen"/>liament, and the Libertys of the Subject.</p>
+            <p n="10">10. <hi>Quere.</hi> Whether the precious blood of the King, and of every innocent man that hath ſuffered by the late ſeditions Army, or High Court of Juſtice ſince the expulſion of the Noble members are not to be laid to his CHARGE:
+<pb n="4" facs="tcp:168866:4"/> though he <hi>Scylla</hi> like, after he had contrived the Murthers and given command he appeareth not in the croude of the Mur<g ref="char:EOLhyphen"/>therers, but endeavoured to obſcure himſelf under an <hi>nihil dicit in publico.</hi> He being nevertheleſs, that <hi>Hydrocephatos</hi> that ſwell'd with Pride and Ambition, the <hi>Primate dictator,</hi> yea Principal of thoſe accurſed conſpirators in all their Trea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="11">11. <hi>Quere.</hi> Whether ſome men ignorant in State affairs, yet honeſt men that ſeem to plead for him, and ſay that ſince he was none of the high Court of Juſtice he may be excuſed; be a ſufficient cauſe to move true Engliſh ſpirits to alter their reſolutions, and not to Petition for Juſtice againſt him, he be<g ref="char:EOLhyphen"/>ing the man without whom thoſe Traytors could not they durſt not act their accurſed Rebellious: For no man can be ſo igno<g ref="char:EOLhyphen"/>rant, as not to know that what the moſt illegal high Court of Juſtice did, was by the pretended Authority of Parliament, of which Trayterous and hydeous monſter was not he (<hi>W. L. S. P.</hi> as afore ſaid) the head.</p>
+            <p n="12">12. <hi>Quere.</hi> Whether becauſe ſome of his favourers ſay, that had he forſaken the Chair, another would preſently having no poſſeſ<g ref="char:EOLhyphen"/>on thereof, can any way expiate thoſe murthers, and perjures which he hath committed, or make him appear any way the leſs guilty in the eye of the Law, or of any truely conſcientious man, for may a man commit murther in the higheſt degree and other enormities, and conclude it is no ſin either againſt God or man, becauſe he conceiveth that had he not done the ſame ano<g ref="char:EOLhyphen"/>ther would have done it.</p>
+            <p n="13">13. Whether they do not manifeſt their partiality and in diſcretion, or at leaſt their neglect of Gods holy Precepts, who utter a Syllable in his behalf, who indeed hath been the contri<g ref="char:EOLhyphen"/>ver of all our miſeries and calamities, who ſate continually at the ſtern to direct thoſe vile Pirates in all their Traytorous de<g ref="char:EOLhyphen"/>ſignes, who delighted more in his imagined honour, then in honouring either God or the King: who to enrich himſelf ſpared no mans life, no not the life of a King, nor the happineſs of three Kingdoms! Oh call to your thoughts how much the Lord hateth Covenant breakers! oh remember how poor <hi>Iſrael</hi> ſuf<g ref="char:EOLhyphen"/>fered in the time of <hi>David</hi> for their breach of Covenant though
+<pb n="5" facs="tcp:168866:4"/> with the <hi>Gibeonites</hi> and Heatheniſh people: what is it then for a Subject to break Covenant with his lawful King, with the great Council of the Nation, and afterwards to murther him and ſome of the Parliament whom he had ſworn to preſerve. Oh remember blood requireth blood; the very <hi>Gibeonits</hi> diſ<g ref="char:EOLhyphen"/>dained <hi>David's</hi> mony in ſatisfaction! Let them that are in au<g ref="char:EOLhyphen"/>thority remember this, it was the ſeven ſons of <hi>Saul</hi> whoſe blood muſt make an expiation.</p>
+            <p n="14">14. <hi>Quere.</hi> Whether if he had been <hi>Hono pietatis</hi> (as he would be reputed) or ſo honeſt as he was politick, ambitious and covetous, as on the very day of the expulſion of the Secluded Members to have endeavoured their readmiſſion, and when he found that he could not prevaile, he knowing the deſperate de<g ref="char:EOLhyphen"/>ſign they were about, had be then like a noble brave ſpirited Se<g ref="char:EOLhyphen"/>nator declared to the <hi>Rump</hi> his ſence and interpretation of their rebellious actings and reſolutions, and then to have left the Chair, &amp; conſequently to have proteſted to the Nations againſt the treaſonable and illegal proceedings of thoſe wicked Mem<g ref="char:EOLhyphen"/>bers; might not in all probability with Gods mercy, have inter<g ref="char:EOLhyphen"/>cepted the abominable Acts of murthering the King and others by ſtriking terrour to the hearts of thoſe impudent Conſpira<g ref="char:EOLhyphen"/>tors; it be evident in all Hiſtories both Divine and Morall, both ancient and modern, how wicked Armies, though Potent, have been put to flight, and the moſt inſolent Traytors examinated by weak means.</p>
+            <p n="15">15. <hi>Quere.</hi> Whether the ſin of this wrecth doth not exceed the ſin of the <hi>Jewes,</hi> for though they poor creatures murthered their King, yet they knew him not to be their King, their <hi>Meſ<g ref="char:EOLhyphen"/>ſiah,</hi> neither had <hi>Pontius Pilate</hi> or any of the <hi>Jewes</hi> ſwore to preſerve him, nor did the unhappy <hi>Jewes</hi> commit that murther, intending thereby to enrich themſelves, or to get four hundred thouſand pounds as this wicked man hath done, as plainly ap<g ref="char:EOLhyphen"/>peareth in the Regiſter, beſides ſix and twenty thouſand pound a year Revenue; All which duely conſidered, he is a moſt inhu<g ref="char:EOLhyphen"/>mane creature addicted wholly to his own luſt. Wherefore dear Countrymen, let us humbly and ſpeedily preſent our Peti<g ref="char:EOLhyphen"/>tions
+<pb n="6" facs="tcp:168866:5"/> to the Parliament for Juſtice againſt him, leſt our neglects provoke the Lord, who is a juſt Judge, and will require due ſa<g ref="char:EOLhyphen"/>tisfaction for innocent blood.</p>
+         </div>
+         <div type="epilogue">
+            <head>The EPILOGUE. For the Bloody TRAYTOR, <hi>W. L. Sp.</hi>
+            </head>
+            <p>THou bloody man, haddeſt thou remembred to make uſe of that ſaying, though from the mouth of a Heathen, which will riſe up againſt thee at the latter day, to thy confuſion if thou repenteſt not, <hi>Non ſolum nobis, nati ſumus partem Patria,</hi> thou wouldeſt not have occaſioned ſo much of thy own Countrey-mens blood blood to be ſpilt, to ſa<g ref="char:EOLhyphen"/>tisfie thy inſatiate deſire, enriching thy ſelf, and glorying in thy Countreys ruin. Or hadſt thou made uſe of that of holy <hi>Gre<g ref="char:EOLhyphen"/>gory, Homo ad contemplandum creatorem ſuam creatus eſt,</hi> You could not poſſibly then have beat your mind ſo to commit ſa<g ref="char:EOLhyphen"/>criledge, blaſphemy and murther; or that of <hi>Zanchius, No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndi creati ſumus ad neminem ſad<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> Oh thou, thou wouldſt never have implyed thy hands to do any miſchief, much leſſe to bathe thy treacherous hands in thy Kings and fellow Subjects blood; For which deſtruction attends thy Body and Soul eternally, without thou heartily repent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
